@@ -1,3 +1,2 @@
 <?php
-$name ="Michał";
-echo "Hello $name!";
+echo "Hello Wordl";
