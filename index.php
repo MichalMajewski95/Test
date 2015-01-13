@@ -1,2 +1,3 @@
 <?php
-echo "Hello word";
+$name ="Michał";
+echo "Hello $name!";
